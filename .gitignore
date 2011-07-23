@@ -1,0 +1,15 @@
+#
+# Yacc
+*.output
+*.tab.c
+*.tab.h
+
+#
+# Lex
+lex.yy.c
+
+
+#
+# C
+*.o
+a.out
